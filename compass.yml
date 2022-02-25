@@ -1,7 +1,7 @@
 name: sample-public
 id: 'ari:cloud:compass:03880786-f3ff-4a98-be2b-6b7793d06c62:component/c150d958-1dfc-44a1-b754-bcfd7c39d2ba/c8dceb8a-5387-40f5-8bf9-152f1d39d331'
 description: 'This is my sample public service.'
-ownerId: null
+ownerId: 'fd0c8731-083a-4162-ad49-afc215b4d47d'
 fields:
   tier: 4
 links:
