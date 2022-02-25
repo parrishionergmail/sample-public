@@ -8,6 +8,9 @@ links:
   - name: null
     type: REPOSITORY
     url: 'https://github.com/parrishionergmail/sample-public'
+  - name: 'My documentation'
+    type: DOCUMENT
+    url: 'https://www.example.com/document/'
 relationships: {}
 
 # Learn more about formatting compass.yml:
